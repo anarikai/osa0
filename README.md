@@ -1,4 +1,3 @@
-# osa0
+# osa0 tehtävien vastaukset
 fullstackopen 2022
 
-osan 0 tehtävien vastaukset
